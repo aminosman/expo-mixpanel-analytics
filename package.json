@@ -29,10 +29,10 @@
     "url": "https://github.com/codekadiya/expo-mixpanel-analytics/issues"
   },
   "dependencies": {
-    "@react-native-async-storage/async-storage": "^1.19.3",
+    "@react-native-async-storage/async-storage": "1.23.1",
     "buffer": "^6.0.3",
-    "expo-constants": "^14.4.2",
-    "expo-device": "^5.6.0",
+    "expo-constants": "~16.0.2",
+    "expo-device": "~6.0.2",
     "expo-updates": "^0.25.17"
   },
   "devDependencies": {
